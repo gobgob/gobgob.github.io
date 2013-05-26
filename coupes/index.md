@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: Coupes
 description: Nos différentes participation à la Coupe de France de Robotique.
 ---

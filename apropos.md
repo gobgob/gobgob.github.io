@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: A propos de GobGob
 description: Association de hackers et créateurs de robots, qui sommes-nous et comment nous contacter.
 ---

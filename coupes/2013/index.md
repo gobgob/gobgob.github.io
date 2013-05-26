@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: static
 title: Coupe 2013, les 20 ans.
 description: jj
 ---
