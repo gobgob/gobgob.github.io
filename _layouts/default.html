@@ -1,50 +1,55 @@
+---
+---
 <!DOCTYPE html>
-<html>
+  <html lang="fr">
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+      <!-- meta -->
+      <meta charset="utf-8" />
+      <meta name="keywords" content="" />
+      <meta name="description" content="" />
+      <meta name="author" content="{{ site.author.name }}">
+      <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+      <!-- include -->
+      <link rel="stylesheet" href="/css/styles.css" />
 
+      <title>{{ page.title }}</title>
     </head>
     <body>
+      <header id="top">
+        <div class="wrapper">
+          <ul>
+            <li><a class="extra" href="/coupes/">Coupes</a></li>
+            <li><a class="extra" href="/">Gallerie</a></li>
+            <li><a class="extra" href="/projets/">Projets personnels</a></li>
+            <li><a class="extra" href="/apropos.html">A propos</a></li>
+          </ul>
+          <h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
+        </div>
+      </header>
+      <div class="wrapper">
+        {{ content }}
 
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">Accueil</a>
-              <a class="extra" href="/coupes/">Coupes</a>
-              <a class="extra" href="/">Gallerie</a>
-              <a class="extra" href="/projets/">Projets personnels</a>
-              <a class="extra" href="/apropos.html">A propos</a>
-            </div>
-     
-                {{ content }}
+        {% if paginator.total_pages > 1 %}
+        <nav>
+        {% if paginator.previous_page %}
+          <a href="{{ site.url }}page{{paginator.previous_page}}">Previous</a>
+        {% else %}
+          <span>Previous</span>
+        {% endif %}
+        {% if paginator.next_page %}
+          <a href="{{ site.url }}page{{paginator.next_page}}" class="right">Next</a>
+        {% else %}
+          <span class="right">Next</span>
+        {% endif %}
+        </nav>
+        {% endif %}
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  GobGob Technology<br />
-                  Hackers et créateurs de robots<br />
-                  contact@gobgob-technology.fr
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/gobgob/">github.com/gobgob</a><br />
-                  <a href="http://twitter.com/GobGobTechno/">twitter.com/GobGobTechno/</a><br />
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> <!-- /container -->
-
+        <footer>
+          <a class="top" href="#top">Top</a>
+          Powered by <a href="https://github.com/mojombo/jekyll/">Jekyll</a> | Theme <a href="https://github.com/fmonniot/jekyll-holo-theme">Holo</a> by <a href="http://francois.monniot.eu">François Monniot</a>
+        </footer>
+      </div>
     </body>
 </html>
