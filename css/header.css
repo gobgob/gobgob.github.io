@@ -1,0 +1,11 @@
+#gobywan {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    background-image: url("../img/header/gobywan360_2.jpg");
+    background-repeat: no-repeat;
+    display: inline-block;
+    border-radius : 150px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.1);
+    float: left;
+}

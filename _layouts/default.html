@@ -1,20 +1,20 @@
 ---
 ---
 <!DOCTYPE html>
-  <html lang="fr">
+<html lang="fr">
     <head>
-      <!-- meta -->
-      <meta charset="utf-8" />
-      <meta name="keywords" content="" />
-      <meta name="description" content="" />
-      <meta name="author" content="{{ site.author.name }}">
-      <meta name="viewport" content="width=device-width">
+        <!-- meta -->
+        <meta charset="utf-8" />
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <meta name="author" content="{{ site.author.name }}">
+        <meta name="viewport" content="width=device-width">
 
 
-      <!-- include -->
-      <link rel="stylesheet" href="/css/styles.css" />
+        <!-- include -->
+        <link rel="stylesheet" href="/css/styles.css" />
 
-      <title>{{ page.title }}</title>
+        <title>{{ page.title }}</title>
     </head>
     <body>
       <header id="top">
@@ -30,27 +30,29 @@
         </div>
       </header>
       <div class="wrapper">
-        {{ content }}
+            {{ content }}
 
-        {% if paginator.total_pages > 1 %}
-        <nav>
-        {% if paginator.previous_page %}
-          <a href="{{ site.url }}page{{paginator.previous_page}}">Previous</a>
-        {% else %}
-          <span>Previous</span>
-        {% endif %}
-        {% if paginator.next_page %}
-          <a href="{{ site.url }}page{{paginator.next_page}}" class="right">Next</a>
-        {% else %}
-          <span class="right">Next</span>
-        {% endif %}
-        </nav>
-        {% endif %}
+            {% if paginator.total_pages > 1 %}
+            <nav>
+                {% if paginator.previous_page %}
+                <a href="{{ site.url }}page{{paginator.previous_page}}">Previous</a>
+                {% else %}
+                <span>Previous</span>
+                {% endif %}
+                {% if paginator.next_page %}
+                <a href="{{ site.url }}page{{paginator.next_page}}" class="right">Next</a>
+                {% else %}
+                <span class="right">Next</span>
+                {% endif %}
+            </nav>
+            {% endif %}
 
-        <footer>
-          <a class="top" href="#top">Top</a>
-          Powered by <a href="https://github.com/mojombo/jekyll/">Jekyll</a> | Theme <a href="https://github.com/fmonniot/jekyll-holo-theme">Holo</a> by <a href="http://francois.monniot.eu">François Monniot</a>
-        </footer>
-      </div>
+            <footer>
+              <a class="top" href="#top">Top</a>
+              Powered by <a href="https://github.com/mojombo/jekyll/">Jekyll</a> | Theme <a href="https://github.com/fmonniot/jekyll-holo-theme">Holo</a> by <a href="http://francois.monniot.eu">François Monniot</a>
+            </footer>
+        </div>
+        <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+        <script src="/js/main.js"></script>
     </body>
 </html>
