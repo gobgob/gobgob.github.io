@@ -63,6 +63,10 @@ p {
   font-size: 1em;
   font-weight: 300;
   margin: 0 0 1em 0;
+  line-height: 1.5;
+}
+li {
+  line-height: 1.5;
 }
 
 h1 { .title(@color-h1, 2em); }
@@ -106,9 +110,28 @@ header#top {
   background: @color-header-background;
   box-shadow: 0 2px 6px @color-header-shadow;
   margin-bottom: 1em;
+  height: 130px;
 
   .wrapper { width: 70%; }
-
+  
+  #gobywan {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    background-image: url("../img/header/gobywan360.jpg");
+    background-repeat: no-repeat;
+    display: inline-block;
+    border-radius : 150px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.1);
+    float: left;
+    margin-top: -10px;
+  }
+  
+  h1 { 
+    margin-top: 35px;
+    margin-left: 180px;
+  }
+  
   ul {
     float: right;
     list-style-type: none;
