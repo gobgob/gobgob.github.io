@@ -2,3 +2,5 @@ name: GobGob Technology
 pygments: true
 
 timezone: Europe/Paris
+
+paginate: 3
