@@ -18,4 +18,4 @@ A coté de cela, nous réalisons de nombreux [projets personnels](projets) axés
 
 Vous pouvez nous [envoyer un courriel](mailto:contact@gobgob-technology.fr) pour toute question ou demande.
 
-Nous sommes aussi présent sur twitter :[@GobGobTechno](https://twitter.com/GobGobTechno)
+Nous sommes aussi présent sur twitter : [@GobGobTechno](https://twitter.com/GobGobTechno)
