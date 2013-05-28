@@ -28,4 +28,8 @@ Twitter : [@jeremycheynet](https://twitter.com/jeremycheynet)
 ###Fabien Bernard
 *(alias Mr Bricol'INT !)*
 
+>Ancien président et fondateur du [club Bricolint](http://bricolint.com/), je suis le bricolo de l'équipe !
+>Scie circulaire, défonceuse, disqueuse, je peux vous bricoler tout et surtout n'importe quoi.
+>Issue d'une école de commerce, j'ai un profil un peu attypique, et ma spécialité sont les yeux de robot (Version 3D en projet !)
+
 Twitter : [@fabien0102](https://twitter.com/fabien0102)
