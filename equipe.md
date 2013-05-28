@@ -19,6 +19,6 @@ Twitter : [@mcassard](https://twitter.com/mcassard)
 Twitter : [@jeremycheynet](https://twitter.com/jeremycheynet)
 
 ###Fabien Bernard
-*(dit Fabien)*
+*(alias Mr Bricol'INT !)*
 
 Twitter : [@fabien0102](https://twitter.com/fabien0102)
