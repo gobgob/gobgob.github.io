@@ -1,6 +1,6 @@
 ---
 layout: static
-title: L equipe GobGob
+title: L&#145;&eacute;quipe GobGob
 description: Qui somme nous ?
 ---
 
@@ -11,7 +11,7 @@ A ce jour, l'équipe est composée de trois membres (hyper)actifs :
 ###Mathieu Cassard
 *(aussi connu sous le doux pseudo de Cassou)*
 
->Ancien président du [club *Intech*](http://www.club-intech.fr/), je suis un peu touche-à-tout. 
+>Ancien président du [club Intech](http://www.club-intech.fr/), je suis un peu touche-à-tout. 
 >Je code beaucoup pour le robot, mais je n'ai pas peur de sortir le marteau ou le fer à souder si il y a besoin de construire un châssis (et croyez moi, c'est pratique a châssis quand on fait un robot).
 
 Twitter : [@mcassard](https://twitter.com/mcassard)

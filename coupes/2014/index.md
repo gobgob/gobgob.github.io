@@ -1,6 +1,6 @@
 ---
 layout: static
-title: Coupe 2014, la prehistoire.
+title: Coupe 2014, la pr&eacute;histoire.
 description: jj
 ---
 
