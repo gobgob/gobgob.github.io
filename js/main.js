@@ -11,6 +11,6 @@ $(function() {
         if (position >= 36) position -= 36;
         
         // Changement de position de l'img pour la faire tourner :)
-        $('#gobywan').css('background-position', -150*position+"px");
+        $('#gobywan').css('background-position', -150.3888888888889*position+"px");
     }); 
 });
