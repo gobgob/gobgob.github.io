@@ -1,6 +1,6 @@
 ---
 layout: static
-title: L'équipe GobGob
+title: L equipe GobGob
 description: Qui somme nous ?
 ---
 
