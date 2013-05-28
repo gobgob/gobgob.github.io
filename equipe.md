@@ -17,7 +17,11 @@ A ce jour, l'équipe est composée de trois membres (hyper)actifs :
 Twitter : [@mcassard](https://twitter.com/mcassard)
 
 ###Jérémy Cheynet
-*(dit le roi lion)*
+*(dit le Roi Lion)*
+
+>*Hakuna matata*, mais quelle phrase magnifique. <br />
+>*Hakuna matata*, quel chant fantastique. <br />
+>Ces mots signifient que tu vivras ta vie sans aucun souci ! Philosophie !
 
 Twitter : [@jeremycheynet](https://twitter.com/jeremycheynet)
 
