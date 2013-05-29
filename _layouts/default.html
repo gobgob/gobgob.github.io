@@ -55,5 +55,10 @@
         </div>
         <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
         <script src="/js/main.js"></script>
+        {% if page.url == "/gallerie.html" %}
+        <script src="/js/galleria/galleria-1.2.9.min.js"></script>
+        <script src="/js/galleria/plugins/flickr/galleria.flickr.min.js"></script>
+        <script src="/js/galleria.js"></script>
+        {% endif %}
     </body>
 </html>
