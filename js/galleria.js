@@ -5,7 +5,7 @@ Galleria.loadTheme('js/galleria/themes/classic/galleria.classic.min.js');
 Galleria.run('#galleria', {
 
     // search flickr for "galleria"
-    flickr: 'search:nature',
+    flickr: 'user:96585783@N02',
     
     flickrOptions: {
         // sort by interestingness
