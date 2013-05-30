@@ -8,14 +8,17 @@ description: Qui somme nous ?
 
 A ce jour, l'équipe est composée de trois membres (hyper)actifs :
 
+
+<img class="vignette" src="/img/cassou.png" alt="cassou"/>
 ###Mathieu Cassard
 *(aussi connu sous le doux pseudo de Cassou)*
 
->Ancien président du [club Intech](http://www.club-intech.fr/), je suis un peu touche-à-tout. 
+>Ancien président du [club Intech](http://www.club-intech.fr/), je suis un peu touche-à-tout. <br />
 >Je code beaucoup pour le robot, mais je n'ai pas peur de sortir le marteau ou le fer à souder si il y a besoin de construire un châssis (et croyez moi, c'est pratique a châssis quand on fait un robot).
 
 Twitter : [@mcassard](https://twitter.com/mcassard)
 
+<img class="vignette" src="/img/leroilion.png" alt="leroilion"/>
 ###Jérémy Cheynet
 *(dit le Roi Lion)*
 
@@ -25,11 +28,11 @@ Twitter : [@mcassard](https://twitter.com/mcassard)
 
 Twitter : [@jeremycheynet](https://twitter.com/jeremycheynet)
 
-###Fabien Bernard
+<img class="vignette" src="/img/fabien0102.png" alt="fabien0102"/>
+###Fabien Bernard 
 *(alias Mr Bricol'INT !)*
-
->Ancien président et fondateur du [club Bricolint](http://bricolint.com/), je suis le bricolo de l'équipe !
->Scie circulaire, défonceuse, disqueuse, je peux vous bricoler tout et surtout n'importe quoi.
+>Ancien président et fondateur du [club Bricolint](http://bricolint.com/), je suis le bricolo de l'équipe ! <br />
+>Scie circulaire, défonceuse, disqueuse, je peux vous bricoler tout et surtout n'importe quoi. <br />
 >Issue d'une école de commerce, j'ai un profil un peu attypique, et ma spécialité sont les yeux de robot (Version 3D en projet !)
 
 Twitter : [@fabien0102](https://twitter.com/fabien0102)
