@@ -19,8 +19,8 @@ Twitter : [@mcassard](https://twitter.com/mcassard)
 ###Jérémy Cheynet
 *(dit le Roi Lion)*
 
->*Hakuna matata*, mais quelle phrase magnifique. <br />
->*Hakuna matata*, quel chant fantastique. <br />
+>Hakuna matata, mais quelle phrase magnifique. <br />
+>Hakuna matata, quel chant fantastique. <br />
 >Ces mots signifient que tu vivras ta vie sans aucun souci ! Philosophie !
 
 Twitter : [@jeremycheynet](https://twitter.com/jeremycheynet)
