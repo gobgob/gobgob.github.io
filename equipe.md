@@ -39,6 +39,6 @@ Twitter : [@jeremycheynet](https://twitter.com/jeremycheynet)
 >Scie circulaire, défonceuse, disqueuse, je peux vous bricoler tout et surtout n'importe quoi. <br />
 >Issue d'une école de commerce, j'ai un profil un peu attypique, et ma spécialité sont les yeux de robot (Version 3D en projet !)
 
-*Spécialité culinaire* : Les yeux à la coques.
+*Spécialité culinaire* : Tiramisu (Grand format SVP !)
 
 Twitter : [@fabien0102](https://twitter.com/fabien0102)
