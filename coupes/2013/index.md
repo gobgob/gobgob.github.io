@@ -17,3 +17,21 @@ Les robots, pour leurs 20 ans en France, fêtent leur anniversaire de façon ino
  ![La table de jeu 2013](table-2013.png)
 
 Le règlement complet est disponible ici : [Règlement officiel Eurobot 2013](ReglementEurobot2013FRVersionfinale.pdf)
+
+#Nos objectifs pour cette année :
+
+#Résultats :
+
+#Le robot : Gobywan
+
+##Mécanique
+###Moteurs et actionneurs
+###Chassis
+
+##Électronique/Informatique
+###Yeux
+###Raspberry Pi
+###Carte mère
+###Puissance
+
+##"Intelligence Artificielle"
