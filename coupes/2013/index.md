@@ -19,8 +19,28 @@ Les robots, pour leurs 20 ans en France, fêtent leur anniversaire de façon ino
 Le règlement complet est disponible ici : [Règlement officiel Eurobot 2013](ReglementEurobot2013FRVersionfinale.pdf)
 
 #Nos objectifs pour cette année :
+Cette année nous avions un objectif en tête : *nous amuser* !<br>
+La victoire n'était pas dans nos priorités, nous voulions avant tout réaliser un robot sympathique, amusant, avec une vraie personnalité. C'est pour cela que nous avons porté une attention toute particulière à l'esthétisme du robot, ainsi qu'à sa capacité à réaliser des choses amusantes (avec la coupe-off en tête dès le début de la conception).<br>
+Cependant, ayant tous participé à une ou plusieurs coupes dans le passé, nous connaissions certains aspects qui permettent de transformer un robot sympa en un robot sympa qui marque des points :
+
+ * *Fiabilité avant tout !* Il vaut mieux concevoir des mécanismes simples, qui ne marqueront pas forcément le maximum de points mais qui marqueront ces points de manière reproductible. Une fois les mécanismes de base rodés, alors on peu commencer à les améliorer en évitant toute régression.
+ * *Ne pas se prendre trop au sérieux*, la conception du robot doit rester un divertissement et ne jamais se transformer en corvée. 
+>-- Et si on rajoutait des yeux au robot ?<br>
+>-- Mais... cela ne gagne pas de points !<br>
+>-- Et alors ? C'est fun !<br>
+ * *Ne pas négliger le déplacement*. Si le robot est capable de partir d'un point A pour aller vers un point B sans (trop) se perdre, alors il pourra marquer des points de manière quasi certaine (pour pousser un cadeau par exemple).
 
 #Résultats :
+
+Les résultats ont été à là hauteur de nos espérances :
+
+* *Un robot sympathique ?*   Mission accomplie !
+
+ 	Les beaux yeux de Gobywan, sa chevelure de feu et l'ambiance mise dans les stands par ses concepteurs ont permis à l'équipe de gagner le *Prix Coup De Coeur du Jury*.
+
+* *Marquer des points*   Mission accomplie !
+
+	L'équipe termine *47è* sur 146 équipes, avec 4 matchs gagnés pour 5 matchs joués. C'est pour nous un excellent résultat.
 
 #Le robot : Gobywan
 
