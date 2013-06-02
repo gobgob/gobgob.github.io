@@ -1,6 +1,6 @@
 ---
 layout: static
-title: Gallerie photo
+title: Galerie photo
 description: En photo c'est mieux !
 ---
 
