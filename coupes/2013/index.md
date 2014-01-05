@@ -44,14 +44,82 @@ Les résultats ont été à là hauteur de nos espérances :
 
 #Le robot : Gobywan
 
-##Mécanique
-###Moteurs et actionneurs
-###Chassis
+## Le plus important : les yeux !
+
+Ils sont chacun constitués de 2 matrices de 8x8 led RGB.
+Les matrices controlés à l'aide d'un Arduino Uno et de plusieurs shift-registers.
+
+![Mécanisme de la langue](shield-yx.jpg)
+![Mécanisme de la langue](yeux_explication.jpg)
+
+
+## Les cheveux !
+
+>Non mais allô ! T'es un robot t'as pas de cheveux ! Non mais allô quoi !
+
+Pour réaliser la "Funny Action" en fin de match et gagner les points bonus, une rangée de cheveux se dressent sur la te de Gobywan.
+
+Ces cheveux sont en réalité des tubes de tissus remplis de mousse (récupérée dans le coussin d'un vieux canapé). Avant le match ils sont roulé très serré et maintenus par une sangle.<br>
+Lorsque la fin du matche approche, un moteur de visseuse Ikéa [FIXA](http://www.ikea.com/fr/fr/catalog/products/20214199/) enroule un câble qui servait de goupille et libère un à un les cheveux.
+
+<!---
+[Article détaillé sur les Cheveux.]()
+-->
+
+## Les bras Clap-Clap !
+
+Monté sur des gros servo-moteurs de récup, ils permettent d'appuyer sur les balles de tennis ou encore de pousser les cadeaux.
+
+## La langue de serpent
+
+Utilisée pour pousser les cadeaux et intimider l'adversaire, la langue est constituée d'une glissière de tiroir, d'un servomoteur de modélisme et de quelques bielles en époxy.
+
+![Mécanisme de la langue](langue_explication.jpg)
+
+
+## La base roulante.
+
+Elément essentiel du robot, elle est constituée d'un plaque en médium sur laquelle vient se fixer deux moteurs GoTronic assortis de roue de rollers.
+
+<!---
+[Tous les détails sur la page dédiée !]()
+-->
+
 
 ##Électronique/Informatique
-###Yeux
-###Raspberry Pi
-###Carte mère
+###Le coeur du robot : Carte mère et RaspberryPi
+
+L'intelligence artificielle, qui coordonne l'ensemble des carte et actionneurs, est situé sur une carte RaspberryPi qui fait tourner un système linux personnalisé .
+
+Ce "mini-pc" et directement relié a une carte mère réalisée sur mesure. Elle comporte différents modules.
+
+####Une alimentation à découpage 5V
+Pour alimenter la Raspberry Pi, les microcontroleurs ainsi que les différents capteurs.
+Cette petite carte accepte une tension comprise entre 5 et 35V en entrée et peut générer une tension réglable entre TODO et TODO par 2 résistances.
+
+####Interface Raspberry Pi
+
+####Deux microcontroleurs AVR ATMEGA328
+
+####De nombreuses entrées/sorties
+
 ###Puissance
+
+Pour piloter les deux roues motrices, nous utilisons 2 cartes basées sur le pont en H lm18200.
+Ces cartes ont été achetées montées sur eBay. Cela revenant au final moins cher que d'acheter les composants séparément et de réaliser la carte nous même.<br>
+Nous utilisons ces pont en H avec succès depuis plusieurs années. Le seul défaut que nous leur avons trouvé : la tension d'alimentation des moteurs doit être supérieur à 12V, sans quoi le pont en H ne fonctionne pas. Afin de ne pas rencontrer de problèmes avec nos moteurs 12V nous avons alimenté les ponts en H en 15V, on prenant garde de ne jamais mettre le pwm des moteurs à 100% pour limiter la tension moyenne à leurs bornes. C'est une pratique un peu risquée, une trop forte surtension risque de griller les moteurs, cependant aucun accident n'a eu lieu jusqu'à ce jour.
+
+###Batteries
+
+Nous avons utilisé deux jeux de 3 batteries LiPO 2S.<br>
+Durant un match, deux batteries en série sont utilisée pour alimenter les différents moteurs tandis que la 3ème aliment l'électronique de controle ainsi que les capteurs.
+
+Nous avions deux cartes permettant de transformer le 7 ou le 14v des batteries en 5V pour l'électronique et les servomoteurs.
+
+<!---
+Tous les détails sur la page dédiée !]()
+-->
+
+ Il est important de bien séparer le "contrôle" (Raspberry Pi, capteurs...) de la puissance (moteurs).
 
 ##"Intelligence Artificielle"
