@@ -60,7 +60,18 @@ Les matrices controlés à l'aide d'un Arduino Uno et de plusieurs shift-registe
 Pour réaliser la "Funny Action" en fin de match et gagner les points bonus, une rangée de cheveux se dressent sur la te de Gobywan.
 
 Ces cheveux sont en réalité des tubes de tissus remplis de mousse (récupérée dans le coussin d'un vieux canapé). Avant le match ils sont roulé très serré et maintenus par une sangle.<br>
+
+
+![Goupillage des cheveux](cheveux.gif)
+
+
+![Dégoupillage des cheveux](cheveux-gigaboom.gif)
+
 Lorsque la fin du matche approche, un moteur de visseuse Ikéa [FIXA](http://www.ikea.com/fr/fr/catalog/products/20214199/) enroule un câble qui servait de goupille et libère un à un les cheveux.
+
+![La goupille](goupille.png)
+![L'enrouleur](enroulleur.png)
+
 
 <!---
 [Article détaillé sur les Cheveux.]()
@@ -70,11 +81,15 @@ Lorsque la fin du matche approche, un moteur de visseuse Ikéa [FIXA](http://www
 
 Monté sur des gros servo-moteurs de récup, ils permettent d'appuyer sur les balles de tennis ou encore de pousser les cadeaux.
 
-## La langue de serpent
+## La langue de serpent et les petites dents pointues !
 
 Utilisée pour pousser les cadeaux et intimider l'adversaire, la langue est constituée d'une glissière de tiroir, d'un servomoteur de modélisme et de quelques bielles en époxy.
 
 ![Mécanisme de la langue](langue_explication.jpg)
+
+Les dents, servant à canaliser un peu les gobelets, se déploients vers l'avant.
+
+![Les dents !](dent.gif)
 
 
 ## La base roulante.
@@ -109,6 +124,8 @@ Pour piloter les deux roues motrices, nous utilisons 2 cartes basées sur le pon
 Ces cartes ont été achetées montées sur eBay. Cela revenant au final moins cher que d'acheter les composants séparément et de réaliser la carte nous même.<br>
 Nous utilisons ces pont en H avec succès depuis plusieurs années. Le seul défaut que nous leur avons trouvé : la tension d'alimentation des moteurs doit être supérieur à 12V, sans quoi le pont en H ne fonctionne pas. Afin de ne pas rencontrer de problèmes avec nos moteurs 12V nous avons alimenté les ponts en H en 15V, on prenant garde de ne jamais mettre le pwm des moteurs à 100% pour limiter la tension moyenne à leurs bornes. C'est une pratique un peu risquée, une trop forte surtension risque de griller les moteurs, cependant aucun accident n'a eu lieu jusqu'à ce jour.
 
+![Bloc moteur](h-bridges.png)
+
 ###Batteries
 
 Nous avons utilisé deux jeux de 3 batteries LiPO 2S.<br>
@@ -120,6 +137,6 @@ Nous avions deux cartes permettant de transformer le 7 ou le 14v des batteries e
 Tous les détails sur la page dédiée !]()
 -->
 
- Il est important de bien séparer le "contrôle" (Raspberry Pi, capteurs...) de la puissance (moteurs).
+ Il est important de bien séparer le "contrôle" (Raspberry Pi, capteurs...) de la puissance (moteurs) pour éviter les parasites.
 
 ##"Intelligence Artificielle"
