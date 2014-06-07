@@ -1,3 +1,5 @@
+
+markdown: kramdown
 name: GobGob Technology
 pygments: true
 
