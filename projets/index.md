@@ -10,6 +10,9 @@ description: Nos différents projets terminés ou en cours de réalisation.
 
 # Les projets personnels
 
+[Harpes laser 2012 par Cassou et Jerem](/projets/harpes2012)
+
+[Harpe laser 2013 par Cassou](/projets/harpes2013)
 
 # Les projets sur commande
 
