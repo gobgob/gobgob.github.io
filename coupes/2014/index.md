@@ -30,7 +30,7 @@ Le règlement complet est disponible ici : [Règlement officiel Eurobot 2013](Ru
 
 ![crominion animé](crominion-animation.gif)
 
-Parfait croisement entre un Minion et un homme de cromagnon, se robot est un tueur ! Munie d'un canon optique mortel, les mammouths ne lui résistent pas. Il suis sa trajectoire à la ligne, s'arrête poliment devant ses adversaires et agite les bras pour les repousser. 
+Parfait croisement entre un Minion et un homme de cromagnon, ce robot est un tueur ! Munie d'un canon optique mortel, les mammouths ne lui résistent pas. Il suis sa trajectoire à la ligne, s'arrête poliment devant ses adversaires et agite les bras pour les repousser. 
 
 Niveau équipement, notre cro-minion est armé d'une [Teensy 3.1](http://www.pjrc.com/store/teensy31.html "Teensy 3.1"): la puissance d'un ARM 32bits avec la facilité de programmation d'un arduino.
 
