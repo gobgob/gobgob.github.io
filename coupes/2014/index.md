@@ -23,7 +23,7 @@ Les missions :
 
 ![Table de jeux](map.png)
 
-Le règlement complet est disponible ici : [Règlement officiel Eurobot 2013](Rules2014VersionfinaleEurobot.pdf)
+Le règlement complet est disponible ici : [Règlement officiel Eurobot 2014](Rules2014VersionfinaleEurobot.pdf)
 
 
 # Cro-Minion
