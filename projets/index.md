@@ -8,6 +8,8 @@ description: Nos différents projets terminés ou en cours de réalisation.
 
 [Réalisation de robots pour la coupe de france de robotique.](/coupes/)
 
+[Bobine tesla v1](/projets/tesla)
+
 # Les projets personnels
 
 [Harpes laser 2012 par Cassou et Jerem](/projets/harpes2012)
