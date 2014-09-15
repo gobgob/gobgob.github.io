@@ -51,13 +51,15 @@ L'assemblage ayant été fait trop rapidement, le parallélisme laissait à dés
 ###Condensateur secondaire
 Un bol en inox acheté en grande surface.
 
+![Le bol et sont aura lumineuse](halo.jpg)
+
 ###Chassis, support
 
 Quelques planches et tasseaux de récupération.
 
 #Conclusion
 
-##Le résultats
+##Le résultat
 
 ![La 1ère étincelle !](first.JPG)
 
@@ -69,10 +71,11 @@ De plus la tension délivrée par le transformateur de micro-onde est un peu "fa
 
 ##Améliorations possibles
 
-Nous ne modifieront probablement plus cette bobines, nous avons appris beaucoups de choses et fabriquerons une nouvelles bobine tirant parti de ces enseignements.
+Nous ne modifieront probablement plus cette bobines, nous avons appris beaucoups de choses et fabriquerons une nouvelle bobine tirant parti de ces enseignements.
 
 * 2kV, c'est un peu trop faible, nous allons nous procurer une alimentation d'enseigne à néon (NST).
 * le condensateur à base d'eau salée et d'huile n'est pas très pratique et transportable, nous allons tenter d'en fabriquer un solide
 * la géométrie de l'éclateur doit être propre pour un réglage optimal
 * l'éclateur doit être refroidis, sinon les arcs stoppent au bout de quelques secondes.
+* la bobine primaire sera faite à plat, et non vertical (ici nous n'avions pas l'équipement nécéssaire pour cintrer le tube de cuivre à la forme voulue).
 
