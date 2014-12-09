@@ -113,7 +113,7 @@ Il est donc inutile de faire comme moi et rajouter des tonnes de condensateur de
 
 Liste de petit conseil pour la fabrication de cette carte (en vrac) :
 
-* Il faut faire vernir la carte pour simplifier le soudage des composants, et éviter les court-circuit sous la bobine ou autre. Le plus simple étant de faire fabriquer la carte chez PCBPool ou seeedstudio.
+* Il faut faire vernir la carte pour simplifier le soudage des composants, et éviter les courts-circuits  sous la bobine ou autre. Le plus simple étant de faire fabriquer la carte chez PCBPool ou seeedstudio.
 * Si vous utilisé le jumper pour choisir la _pin_ de sortie, pensez à le fixer avec de la colle ou autre (il serait dommage de le perdre en match.
 * Si vous avez plusieurs alimentation à faire (5V et 10V par exemple), utilisez 2 sorties différentes de la carte. Comme ça, si vous vous trompez d'emplacement lorsque vous _plugger_ l'alimentation sur votre carte, vous ne pouvez pas inverser les 2 tensions. Non, ce n'est pas du vécu d'avoir inversé le 5V et 10V ...
 
@@ -129,7 +129,7 @@ Cette carte fonctionne, mais est loin d'être parfaite. Surtout lorsqu'on veut l
 
 # Utilisation
 
-J'ai eu l'occasion de tester ce montage dans plusieurs conditions, et j'en suis trés content.
+J'ai eu l'occasion de tester ce montage dans plusieurs conditions, et j'en suis très content.
 
 * Il a fait le 5V et 10V de la coupe 2011 dans le robot d'INTech en mode proto pas beau et a parfaitement fonctionnait.
 * Il a fait la coupe 2012 toujours avec INTech (2x5V et 10v) avec exactement la carte ci-dessus et a fait son travail à merveille. Jusqu'au jour où, lors d'une démo après la coupe, les 3 cartes sont mortes en même temps. On n'a jamais su ce qu'il s'est passé :
@@ -140,7 +140,7 @@ J'ai eu l'occasion de tester ce montage dans plusieurs conditions, et j'en suis 
 
 # Download
 
-voici quelques fichier à télécharger :
+Voici quelques fichier à télécharger :
 
 * [Le schéma (au format eagle 5.11.0)](alim.sch)
 * [Le routage (toujours avec le même format)](alim.brd)
