@@ -16,6 +16,8 @@ description: Nos différents projets terminés ou en cours de réalisation.
 
 [Harpe laser 2013 par Cassou](/projets/harpes2013)
 
+[Vider le garage automatiquement](/projets/garage)
+
 # Les projets sur commande
 
 [Projet 3D Map par Cassou](/projets/map)
