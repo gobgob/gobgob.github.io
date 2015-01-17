@@ -110,7 +110,9 @@ Ce "mini-pc" et directement relié a une carte mère réalisée sur mesure. Elle
 
 ####Une alimentation à découpage 5V
 Pour alimenter la Raspberry Pi, les microcontroleurs ainsi que les différents capteurs.
-Cette petite carte accepte une tension comprise entre 5 et 35V en entrée et peut générer une tension réglable entre TODO et TODO par 2 résistances.
+Cette petite carte accepte une tension comprise entre 5 et 35V en entrée et peut générer une tension réglable entre 0 et VCC par 2 résistances.
+
+[Plus de détails.](/modules/electronique/alimentation_a_decoupage/)
 
 ####Interface Raspberry Pi
 
