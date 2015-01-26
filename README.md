@@ -14,6 +14,8 @@ Les contributeurs à ce projet sont :
 * Fabien BERNARD (Design master)
 * Mathieu CASSARD (Rédacteur en chef)
 * Jérémy CHEYNET (Touriste master)
+* Olivier DUVAL (Responsable RoseTeam)
+* Guillaume giraud (Redacteur en chef RoseTeam)
 
 
 PS : Nous remercions par ailleurs François MONNIOT pour le design de base ;)
