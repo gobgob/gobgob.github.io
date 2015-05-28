@@ -10,6 +10,8 @@ description: Nos différents projets terminés ou en cours de réalisation.
 
 [Bobine tesla v1](/projets/tesla)
 
+[Une balise "parapluie" pour le robot](/projets/balise)
+
 # Les projets personnels
 
 [Harpes laser 2012 par Cassou et Jerem](/projets/harpes2012)
