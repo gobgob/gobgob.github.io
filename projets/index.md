@@ -20,6 +20,8 @@ description: Nos différents projets terminés ou en cours de réalisation.
 
 [Vider le garage automatiquement](/projets/garage)
 
+[Déclencher l'appareil photo, sans être présent](/projets/autophoto)
+
 # Les projets sur commande
 
 [Projet 3D Map par Cassou](/projets/map)
