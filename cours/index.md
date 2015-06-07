@@ -8,4 +8,6 @@ Le mot *cours* est un bien grand mot. Il s'agit plus d'explications *détaillée
 
 # Programmation #
 
+[Utilisation de la TFD (Transformée de Fourier Discrète)](/cours/tfd)
+
 # Electronique #
