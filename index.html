@@ -4,8 +4,8 @@ title: GobGob Technology
 ---
 <article>
   <div class="carousel content">
-    <div><a href="coupes/2014"><img src="coupes/2014/prehistobot.png" alt=""></a></div>
-    <div><a href="coupes/2015"><img src="coupes/2015/RoboMovies.png" alt=""></a></div>
+    <div><a href="/coupes/2014"><img src="/coupes/2014/prehistobot.png" alt=""></a></div>
+    <div><a href="/coupes/2015"><img src="/coupes/2015/RoboMovies.png" alt=""></a></div>
   </div>
 </article>
 
@@ -17,7 +17,7 @@ title: GobGob Technology
       {{ post.content | more: "going" }}
     </section>
     <footer>
-      <a href="{{ post.url }}">{{ post.date | date_to_long_string }}</a>
+      {{ post.date | date_to_long_string }}
       {% comment %} If category or tag , a paragraphe can be insert here {% endcomment %}
     </footer>
   </div>
