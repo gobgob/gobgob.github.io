@@ -4,6 +4,8 @@ name: GobGob Technology
 description: Site web du club robotique GobGob Technology
 url: gobgob-technology.fr
 highlighter: rouge
+plugins:
+  - jekyll-paginate
 
 timezone: Europe/Paris
 
