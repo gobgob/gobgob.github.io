@@ -8,7 +8,8 @@ max-width: 100%;
   }
 
   header#top .wrapper {
-    width: 100%
+    width: 100%;
+    padding: 5px 0;
   }
 
   header#top ul {
