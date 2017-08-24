@@ -2,8 +2,38 @@
 max-width: 100%;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .desktop-only {
     display: none;
+  }
+
+  header#top .wrapper {
+    width: 100%
+  }
+
+  header#top ul {
+    float: none;
+    display: flex;
+    width: 100%;
+    top: 5px;
+    position: relative;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  header#top ul li {
+    float: none;
+    border-top: 1px solid lightblue;
+  }
+
+  header#top h1 {
+    margin: 0;
+    position: absolute;
+    top: 50px;
+    left: 180px;
+  }
+
+  header#top {
+    height: inherit;
   }
 }
