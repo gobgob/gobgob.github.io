@@ -1,9 +1,9 @@
 
 markdown: kramdown
 name: GobGob Technology
-description: Site web de club robotique GobGob Technology
+description: Site web du club robotique GobGob Technology
 url: gobgob-technology.fr
-pygments: true
+highlighter: rouge
 
 timezone: Europe/Paris
 
